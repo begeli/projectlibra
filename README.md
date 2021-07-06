@@ -37,15 +37,17 @@ laboratories and research centers in Turkey.
 
 ### Reports
 
-[Project Specifications](https://projectlibra.dev/reports/LIBRAProjectSpecification.pdf)
+[Project Specifications](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRAProjectSpecification.pdf)
 
-[Analysis](https://projectlibra.dev/reports/LIBRAAnalysis.pdf)
+[Analysis](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRAAnalysis.pdf)
 
-[High-Level Design](https://projectlibra.dev/reports/LIBRAHighLevelDesign.pdf)
+[High-Level Design](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRAHighLevelDesign.pdf)
 
-[Low-Level Design](https://projectlibra.dev/reports/LIBRALowLevelDesign.pdf)
+[Low-Level Design](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRALowLevelDesign.pdf)
 
-Final Report *in progress*
+[Final Report](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRAFinalReport.pdf) 
+
+[User Manual](https://github.com/projectlibra/projectlibra.github.io/blob/master/reports/LIBRAUserManual.pdf)
 
 ### Contact
 
